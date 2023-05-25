@@ -16,7 +16,6 @@
 
 <a href="#" title="STATUS"><img src="https://img.shields.io/badge/STATUS-Concluído-green?style=for-the-badge" alt="Em andamento..."></a>
 
-
 <h2 id="linguagens">Tecnologias e IDE Utilizadas 📚</h2>
 
 <div style="display: inline_block">
@@ -31,15 +30,15 @@
 
   <!--<b><i>EM BREVE...</i></b>-->
 
-<img align="center" src="" width="300"/> 
-<img align="center" src="" width="300"/> 
-<img align="center" src="" width="300"/> 
+<img align="center" src="https://i.imgur.com/mmx3Aed.png" width="300"/> 
+<img align="center" src="https://i.imgur.com/5HPmyBF.png" width="300"/> 
+<img align="center" src="https://i.imgur.com/2FSFWVS.png" width="300"/> 
 
 <h2 id="demoprojeto">Demonstração online do projeto <img align="center" src="https://cdn-icons-png.flaticon.com/512/5511/5511365.png" width="35"/></h2>
 
-<a href="http://.rf.gd"><b>Projeto Google reCAPTCHA</b></a><br>
-<a href="http://.rf.gd"><b>Projeto Google reCAPTCHA</b></a><br>
-<a href="http://.rf.gd"><b>Projeto Google reCAPTCHA</b></a><br>
+<a href="http://projetorecaptcha.rf.gd"><b>Projeto Google reCAPTCHA</b></a><br>
+<a href="http://projetorecaptcha.rf.gd"><b>Projeto Google reCAPTCHA</b></a><br>
+<a href="http://projetorecaptcha.rf.gd"><b>Projeto Google reCAPTCHA</b></a><br>
     
 <!-- <h2 id="autores">Autor do Projeto 👨‍💼</h2>
 <a href="https://github.com/AhMoutinho/" title="André Moutinho"><img align="center" src="https://i.imgur.com/VN0Vh9S.png" width="25"/> André Moutinho</a> -->  
